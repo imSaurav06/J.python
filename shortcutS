@@ -1,0 +1,97 @@
+# ============================================================
+# JUPYTER NOTEBOOK SHORTCUTS CHEAT SHEET
+# ============================================================
+
+# -------------------------
+# COMMAND MODE (Press Esc)
+# -------------------------
+# A           -> Insert cell Above
+# B           -> Insert cell Below
+# D, D        -> Delete selected cell
+# X           -> Cut cell
+# C           -> Copy cell
+# V           -> Paste cell below
+# Shift + V   -> Paste cell above
+# Z           -> Undo deleted cell
+# M           -> Convert cell to Markdown
+# Y           -> Convert cell to Code
+# R           -> Convert cell to Raw
+# Enter       -> Enter Edit mode
+# H           -> Show all shortcuts
+# O           -> Toggle cell output
+# Shift + O   -> Toggle output scrolling
+# L           -> Toggle line numbers
+# Shift + L   -> Toggle line numbers for all cells
+# I, I        -> Interrupt kernel
+# 0, 0        -> Restart kernel
+# Shift + M   -> Merge selected cells
+# S           -> Save notebook
+
+# -------------------------
+# EDIT MODE (Press Enter)
+# -------------------------
+# Shift + Enter -> Run cell and move to next
+# Ctrl + Enter  -> Run cell and stay in current cell
+# Alt + Enter   -> Run cell and insert new cell below
+# Tab           -> Autocomplete
+# Shift + Tab   -> Show documentation tooltip
+# Ctrl + /      -> Comment/Uncomment selected lines
+# Ctrl + Z      -> Undo
+# Ctrl + Y      -> Redo
+# Ctrl + A      -> Select all text
+# Ctrl + C      -> Copy
+# Ctrl + X      -> Cut
+# Ctrl + V      -> Paste
+# Ctrl + Shift + - -> Split cell at cursor
+
+# -------------------------
+# NAVIGATION
+# -------------------------
+# Up Arrow      -> Move to previous cell
+# Down Arrow    -> Move to next cell
+# Home          -> Go to beginning of line
+# End           -> Go to end of line
+# Page Up       -> Scroll up
+# Page Down     -> Scroll down
+
+# -------------------------
+# USEFUL JUPYTER MAGICS
+# -------------------------
+# %pwd          -> Show current working directory
+# %ls           -> List files
+# %who          -> List variables
+# %whos         -> Detailed variable information
+# %reset        -> Clear variables
+# %time         -> Time a single execution
+# %timeit       -> Benchmark execution speed
+# %history      -> Show command history
+# %run file.py  -> Run a Python script
+# %matplotlib inline -> Show plots inside notebook
+
+# -------------------------
+# HELP COMMANDS
+# -------------------------
+# ?function_name    -> Quick help
+# ??function_name   -> Detailed help/source
+# help(function)    -> Python help
+
+# -------------------------
+# KERNEL SHORTCUTS
+# -------------------------
+# I, I         -> Interrupt kernel
+# 0, 0         -> Restart kernel
+# Esc + H      -> View all available shortcuts
+
+# ============================================================
+# Most Important Daily Shortcuts:
+# Shift + Enter  -> Run cell
+# Alt + Enter    -> Run + New Cell
+# A              -> New cell above
+# B              -> New cell below
+# D,D            -> Delete cell
+# M              -> Markdown cell
+# Y              -> Code cell
+# Tab            -> Autocomplete
+# Shift + Tab    -> Documentation
+# Ctrl + /       -> Comment code
+# ============================================================
